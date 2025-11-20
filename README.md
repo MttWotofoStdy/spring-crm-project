@@ -1,4 +1,4 @@
-# My CRUD App 
+# My CRM App 
 
 Spring Boot CRUD приложение с PostgreSQL.
 ## Функционал
